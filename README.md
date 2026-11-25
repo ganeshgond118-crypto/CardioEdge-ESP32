@@ -176,7 +176,7 @@ All pins are defined in `firmware/src/config.h`. The models were trained mostly 
 The trained models and generated firmware headers are already in the repo, so flashing needs **no datasets and no training**. You need Python 3.12 (TensorFlow does not support 3.14 yet). The commands below are for Windows PowerShell.
 
 ```powershell
-git clone https://github.com/prabhu-omkar/CardioEdge-ESP32.git
+git clone https://github.com/ganeshgond118-crypto/CardioEdge-ESP32.git
 cd CardioEdge-ESP32
 
 py -3.12 -m venv .venv
